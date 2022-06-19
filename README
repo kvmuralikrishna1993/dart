@@ -1,5 +1,5 @@
 dart will be used to download the youtube video or playlist and to get the meta information of videos.
 
-there is no master branch in repo. Please use main as master while pushing the code.
+There is no master branch in repo. Please use main as master while pushing the code.
 
-git push origin main
+To push the code to repo: git push origin main
